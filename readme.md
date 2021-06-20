@@ -1,5 +1,5 @@
 
-# A Shape Guided Ultralight Network for Biomedical Image Segmentation
+# Shape Guided Ultralight Network for Medical Image Segmentation
 
 1. **"ultralight_conv.py"** is our proposed plug-and-play ultra-light convolution.
 2. **"SGU_Net.py"** is our proposed SGU-Net.
